@@ -1,9 +1,10 @@
 # TP 1 LINUX 
 ## ON FRACASSE DES VM !
 
-## I) TEST 001 :
 
-![]("https://i.gifer.com/2NEc.gif")
+![](https://i.gifer.com/2NEc.gif)
+
+## I) TEST 001 :
 
 
 Après plusieurs recherche je suis parvenu a la conclusion suivante... si la machine ne peut plus boot alors nous avons réussis le test...
@@ -31,7 +32,8 @@ reboot
 ```
 
 MAGIE : 
-![DISPARU](TP1/IMAGES/MAGIE_DU_NOYAU.png)
+![DISPARU](IMAGES/MAGIE_DU_NOYAU.png)
+
 
 ## II) TEST 002 :
 
@@ -50,6 +52,8 @@ donc on fait ça :
 sudo rm /boot/bash
 sudo rm /boot/sh
 ```
+
+![](https://i.gifer.com/DS7V.gif)
 
 ## III) TEST 003 :
 
@@ -73,7 +77,7 @@ done
 ```
 Déconnecion mon grand !
 
-![]("https://i.gifer.com/9O2a.gif")
+![](https://i.gifer.com/9O2a.gif)
 
 
 
