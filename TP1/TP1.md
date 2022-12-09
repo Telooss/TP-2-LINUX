@@ -75,7 +75,7 @@ logout
 done
 
 ```
-Déconnecion mon grand !
+Déconnexion mon grand !
 
 ![](https://i.gifer.com/9O2a.gif)
 
